@@ -1,0 +1,3 @@
+Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The
+repository has several datasets. For this case study, we are using the Electronics
+dataset.
